@@ -11,7 +11,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println(1 + 2);
         System.out.println(1 + 2);
-        System.out.println(1 + 2);
-
+        System.out.println(1 + 3);
+        System.out.println(1 + 4);
     }
 }
